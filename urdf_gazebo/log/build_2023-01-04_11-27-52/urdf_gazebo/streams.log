@@ -1,0 +1,46 @@
+[0.056s] Invoking command in '/home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo -- -j4 -l4
+[0.134s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.202s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.705s] -- Found urdf: 2.4.0 (/opt/ros/foxy/share/urdf/cmake)
+[0.754s] -- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.926s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.973s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.974s] -- Configured cppcheck include dirs: 
+[0.974s] -- Configured cppcheck exclude dirs and/or files: 
+[1.029s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.030s] -- Configured cpplint exclude dirs and/or files: 
+[1.040s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.051s] -- Added test 'lint_cmake' to check CMake code style
+[1.058s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.107s] -- Added test 'uncrustify' to check C / C++ code style
+[1.107s] -- Configured uncrustify additional arguments: 
+[1.114s] -- Added test 'xmllint' to check XML markup files
+[1.118s] -- Configuring done
+[1.129s] -- Generating done
+[1.132s] -- Build files have been written to: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo
+[1.181s] Invoked command in '/home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo -- -j4 -l4
+[1.254s] Invoking command in '/home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo
+[1.275s] -- Install configuration: ""
+[1.275s] -- Up-to-date: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo//rviz
+[1.276s] -- Up-to-date: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo//rviz/urdf.rviz
+[1.277s] -- Up-to-date: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo//urdf
+[1.277s] -- Up-to-date: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo//urdf/diffbot.urdf
+[1.277s] -- Up-to-date: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo//launch
+[1.278s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo//launch/diffbot.urdf.gazebo.launch.py
+[1.281s] -- Up-to-date: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo//launch/diffbot.urdf.launch.py
+[1.281s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/ament_index/resource_index/package_run_dependencies/urdf_gazebo
+[1.282s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/ament_index/resource_index/parent_prefix_path/urdf_gazebo
+[1.283s] -- Up-to-date: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/environment/ament_prefix_path.sh
+[1.283s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/environment/ament_prefix_path.dsv
+[1.283s] -- Up-to-date: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/environment/path.sh
+[1.283s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/environment/path.dsv
+[1.289s] -- Up-to-date: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/local_setup.bash
+[1.290s] -- Up-to-date: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/local_setup.sh
+[1.290s] -- Up-to-date: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/local_setup.zsh
+[1.290s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/local_setup.dsv
+[1.290s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/package.dsv
+[1.291s] -- Up-to-date: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/ament_index/resource_index/packages/urdf_gazebo
+[1.291s] -- Up-to-date: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/cmake/urdf_gazeboConfig.cmake
+[1.291s] -- Up-to-date: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/cmake/urdf_gazeboConfig-version.cmake
+[1.292s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/package.xml
+[1.295s] Invoked command in '/home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo

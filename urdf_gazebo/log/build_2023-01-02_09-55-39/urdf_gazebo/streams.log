@@ -1,0 +1,62 @@
+[0.038s] Invoking command in '/home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo -DCMAKE_INSTALL_PREFIX=/home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo
+[0.172s] -- The C compiler identification is GNU 9.4.0
+[0.294s] -- The CXX compiler identification is GNU 9.4.0
+[0.307s] -- Check for working C compiler: /usr/bin/cc
+[0.470s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.471s] -- Detecting C compiler ABI info
+[0.607s] -- Detecting C compiler ABI info - done
+[0.631s] -- Detecting C compile features
+[0.632s] -- Detecting C compile features - done
+[0.650s] -- Check for working CXX compiler: /usr/bin/c++
+[0.818s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.821s] -- Detecting CXX compiler ABI info
+[0.977s] -- Detecting CXX compiler ABI info - done
+[1.012s] -- Detecting CXX compile features
+[1.014s] -- Detecting CXX compile features - done
+[1.019s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.065s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.065s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.481s] -- Found urdf: 2.4.0 (/opt/ros/foxy/share/urdf/cmake)
+[1.542s] -- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.705s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.713s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.713s] -- Configured cppcheck include dirs: 
+[1.715s] -- Configured cppcheck exclude dirs and/or files: 
+[1.727s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.728s] -- Configured cpplint exclude dirs and/or files: 
+[1.735s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.736s] -- Added test 'lint_cmake' to check CMake code style
+[1.738s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.748s] -- Added test 'uncrustify' to check C / C++ code style
+[1.748s] -- Configured uncrustify additional arguments: 
+[1.750s] -- Added test 'xmllint' to check XML markup files
+[1.755s] -- Configuring done
+[1.759s] -- Generating done
+[1.761s] -- Build files have been written to: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo
+[1.773s] Invoked command in '/home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo -DCMAKE_INSTALL_PREFIX=/home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo
+[1.779s] Invoking command in '/home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo -- -j4 -l4
+[1.876s] Invoked command in '/home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo -- -j4 -l4
+[1.954s] Invoking command in '/home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo
+[1.972s] -- Install configuration: ""
+[1.972s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo//rviz
+[1.972s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo//rviz/urdf.rviz
+[1.973s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo//urdf
+[1.973s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo//urdf/diffbot.urdf
+[1.973s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo//launch
+[1.973s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo//launch/diffbot.urdf.launch.py
+[1.973s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/ament_index/resource_index/package_run_dependencies/urdf_gazebo
+[1.973s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/ament_index/resource_index/parent_prefix_path/urdf_gazebo
+[1.974s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/environment/ament_prefix_path.sh
+[1.974s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/environment/ament_prefix_path.dsv
+[1.974s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/environment/path.sh
+[1.974s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/environment/path.dsv
+[1.974s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/local_setup.bash
+[1.975s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/local_setup.sh
+[1.975s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/local_setup.zsh
+[1.975s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/local_setup.dsv
+[1.975s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/package.dsv
+[1.976s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/ament_index/resource_index/packages/urdf_gazebo
+[1.976s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/cmake/urdf_gazeboConfig.cmake
+[1.976s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/cmake/urdf_gazeboConfig-version.cmake
+[1.976s] -- Installing: /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/install/urdf_gazebo/share/urdf_gazebo/package.xml
+[1.985s] Invoked command in '/home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/josef-reth/Workspaces/mydev_ws/src/urdf_gazebo/build/urdf_gazebo
